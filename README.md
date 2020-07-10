@@ -1,4 +1,3 @@
-![box-snakes](repository-open-graph-template-box-snakes.png "box-snakes")
 
 # box-snakes
 Janky pages (CPU-GPU loading)
